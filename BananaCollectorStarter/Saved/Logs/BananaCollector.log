@@ -1210,3 +1210,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.25-18.23.55:156][912]LogOnline: OSS: Creating online subsystem instance for: :Context_20
 [2020.07.25-18.23.55:159][912]PIE: Server logged in
 [2020.07.25-18.23.55:160][912]PIE: Play in editor total start time 0,121 seconds.
+[2020.07.25-18.44.37:443][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.07.25-18.44.37:466][925]LogSavePackage: Moving '../../../../../Cours/Projects/aa/Unreal_Engine_4_Blueprints_Tutorial/BananaCollectorStarter/Saved/TutorialMap3D5BA2D44EDF23EF5F818B99E586A209.tmp' to '../../../../../Cours/Projects/aa/Unreal_Engine_4_Blueprints_Tutorial/BananaCollectorStarter/Content/BananaCollector/Maps/TutorialMap.umap'
+[2020.07.25-18.44.37:497][925]LogSavePackage: Moving '../../../../../Cours/Projects/aa/Unreal_Engine_4_Blueprints_Tutorial/BananaCollectorStarter/Saved/TutorialMap_BuiltData281484C6424C94F15EC3F8BD0EEED374.tmp' to '../../../../../Cours/Projects/aa/Unreal_Engine_4_Blueprints_Tutorial/BananaCollectorStarter/Content/BananaCollector/Maps/TutorialMap_BuiltData.uasset'
+[2020.07.25-18.44.37:507][925]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.25-18.44.37:507][925]LogContentValidation: Display: Validating World /Game/BananaCollector/Maps/TutorialMap.TutorialMap
+[2020.07.25-18.44.37:507][925]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BananaCollector/Maps/TutorialMap_BuiltData.TutorialMap_BuiltData
